@@ -1,7 +1,8 @@
 # grcampillos.github.io
 
 Hi! Welcome to my Portfolio! 
-I'm Gene Reneil L. Campillos, a fresh graduate from the University of the East Manila
+I'm Gene Reneil L. Campillos, a fresh graduate from the University of the East Manila.
+
 I'm still working on my portfolio and I aspire to specialize in the field of Data: Analytics, Science, & Engineering
 as learning the ways in the world of data gives us the opportunity to innovate better endeavors we set our minds to. 
 Data is the new oil of the digital world and it is arguably the most essential 
