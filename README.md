@@ -1,15 +1,23 @@
 <h1 align="center">Hi 👋, I'm Hi! Welcome to my Portfolio! I'm Gene Reneil L. Campillos, a fresh graduate from the University of the East Manila.</h1>
 <h3 align="center">I'm still working on my portfolio and I aspire to specialize in the field of Data: Analytics, Science, & Engineering as learning the ways in the world of data gives us the opportunity to innovate better endeavors we set our minds to. Data is the new oil of the digital world and it is arguably the most essential driving force of any project in any given field.</h3>
 
+<h3 align="left">Projects</h3>
+
+- For a starter you may refer to our capstone project (The link directs to a Gdrive containing the 3 CNN models)) [: Acne and Eczema Skin Disease Detection System w/ Suggestive Medication Treatment using CNN](Google Drive Link: https://drive.google.com/drive/folders/1W42YrEKz2uzC3Aa0ftWGomhS9hope14g?usp=sharing)
+
+- I've also finished a data cleaning project of mine using SQL **: Data Cleaning - World Layoffs**
+
+<h3 align="left">Career Growth</h3>
+
 - 🌱 I’m currently learning **Exploratory Data Analysis, Tableau, Power BI, and Advanced Excel**
 
-- •I've also finished a data cleaning project of mine using SQL **: Data Cleaning - World Layoffs**
 
-- •For a starter you may refer to our capstone project (The link directs to a Gdrive containing the 3 CNN models)) [: Acne and Eczema Skin Disease Detection System w/ Suggestive Medication Treatment using CNN](Google Drive Link: https://drive.google.com/drive/folders/1W42YrEKz2uzC3Aa0ftWGomhS9hope14g?usp=sharing)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/gene-reneil-campillos-6227b5310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gene-reneil-campillos-6227b5310" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/gene-reneil-campillos-6227b5310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gene-reneil-campillos-6227b5310" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
