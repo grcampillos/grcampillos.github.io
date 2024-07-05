@@ -3,7 +3,8 @@
 
 <h3 align="left">Projects</h3>
 
-- For a starter you may refer to our capstone project (The link directs to a Gdrive containing the 3 CNN models)) [: Acne and Eczema Skin Disease Detection System w/ Suggestive Medication Treatment using CNN](Google Drive Link: https://drive.google.com/drive/folders/1W42YrEKz2uzC3Aa0ftWGomhS9hope14g?usp=sharing)
+- For a starter you may refer to our capstone project (The link directs to a Gdrive containing the 3 CNN models) **: Acne and Eczema Skin Disease Detection System w/ Suggestive Medication Treatment using CNN**
+(Google Drive Link: https://drive.google.com/drive/folders/1W42YrEKz2uzC3Aa0ftWGomhS9hope14g?usp=sharing)
 
 - I've also finished a data cleaning project of mine using SQL **: Data Cleaning - World Layoffs**
 
