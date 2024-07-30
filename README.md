@@ -14,6 +14,7 @@
 <h3 align="left">Career Growth</h3>
 
 - 🌱 I’m currently learning **Exploratory Data Analysis, Tableau, Power BI, and Advanced Excel**
+- My long term goal is to be able to learn about Data Engineering technologies 
 
 
 
