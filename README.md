@@ -9,6 +9,7 @@
 - I've also finished a data cleaning project of mine using SQL **: Data Cleaning Project - World Layoffs**
 
 - Followed by an Exploratory Data Analysis of the Cleaned Dataset **: Exploratory Data Analysis - World Layoffs**
+- Bike Sales Dataset Using Excel w/ dashboard and pivot tables **: Excel Project Dataset - Bike Sales**
 
 <h3 align="left">Career Growth</h3>
 
